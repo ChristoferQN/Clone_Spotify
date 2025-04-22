@@ -1,4 +1,4 @@
-# Clone Youtube - Projeto de Prática
+# Clone Spotify - Projeto de Prática
 
 Projeto de estudo para desenvolver habilidades de HTML e CSS, recriando a interface de canal do usuário do Youtube.
 
