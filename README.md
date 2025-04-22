@@ -1,6 +1,6 @@
 # Clone Spotify - Projeto de Prática
 
-Projeto de estudo para desenvolver habilidades de HTML e CSS, recriando a interface de canal do usuário do Youtube.
+Projeto de estudo para desenvolver habilidades de HTML e CSS, recriando a interface "Home" do Spotify.
 
 ## Funcionalidades
 
